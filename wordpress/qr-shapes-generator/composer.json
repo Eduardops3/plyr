@@ -1,0 +1,8 @@
+{
+    "name": "yourname/qr-shapes-generator",
+    "description": "QR code generator with customizable module shapes.",
+    "require": {
+        "php": ">=7.2",
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
